@@ -9,3 +9,14 @@ SQL and Excel and build a dasboard to visualize the result.
 3. What is the total number of pizza sold
 4. What is the total number of order
 5. What is the average pizza per order
+6. The top 5 best and worst sellers
+## Visualization
+The dashboard contains total of 7 worksheets, namely:
+1. Worksheets link
+2. KPI
+3. Dashboard
+4. Total Trends For Orders
+5. Best and worst sales
+6. % sales for category and size
+7. pizza_sales
+   
