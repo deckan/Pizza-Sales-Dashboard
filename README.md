@@ -1,6 +1,6 @@
 # Pizza-Sales-Dashboard
 ![](pizza.png)
-## Introduction
+## Introduction 
 This is an Excel and SQL project on Pizza sales data. This project is to analyse the data using both 
 SQL and Excel and build a dasboard to visualize the result. 
 ## Problem Statements
@@ -42,3 +42,8 @@ Daily Trend | Hourly Trend
 Top 5 Best Seller | Button 5 Worst Seller
 :----: | :----:|
 ![](top5_best_pizza.JPG)|![](Buttom_5_worst_sellers.JPG)
+
+## Conclusion:
+- The highest orders are recorded between Thursdays and Fridays, between the hour 12pm-13pm and 17pm-18pm
+- Classic pizza contributed the highest sales and order
+- The large pizza size generate the most revenue since it recorded the highest sales of all the pizza size and XX-Large has the least sales
