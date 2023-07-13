@@ -19,7 +19,7 @@ The dashboard contains total of 7 worksheets, namely:
 5. Best and worst sales
 6. % sales for category and size
 7. pizza_sales
-# Calculated Metrics
+# Calculated Metrics Using SQL
 Total Pizza Sold|Total Order|Total Revenue |Total Pizza Sold by Category
 :------: | :------: | :--------: | :--------:
 ![](Total_pizza_sold.JPG)|![](Total_order.JPG)|![](Total_revenue.JPG)|![](total_pizza_sold_by_category.JPG)
@@ -47,3 +47,4 @@ Top 5 Best Seller | Button 5 Worst Seller
 - The highest orders are recorded between Thursdays and Fridays, between the hour 12pm-13pm and 17pm-18pm
 - Classic pizza contributed the highest sales and order
 - The large pizza size generate the most revenue since it recorded the highest sales of all the pizza size and XX-Large has the least sales
+- The Classic Deluxe Pizza is the most selling pizza and Brie Carre Pizza has the worst sale of them all
