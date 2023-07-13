@@ -19,4 +19,8 @@ The dashboard contains total of 7 worksheets, namely:
 5. Best and worst sales
 6. % sales for category and size
 7. pizza_sales
-   
+# Calculated Metrics
+Average Order|Average Pizza Per Order|Total Order|Total Revenue
+:-----: | :---------------| :---------: | :-----------:
+![](Average_order.JPG)|![](Average_pizza_perorder.JPG)|![](Total_order.JPG)|![](Total_revenue.JPG)
+
