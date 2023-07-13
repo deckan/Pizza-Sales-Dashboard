@@ -20,7 +20,17 @@ The dashboard contains total of 7 worksheets, namely:
 6. % sales for category and size
 7. pizza_sales
 # Calculated Metrics
-Average Order|Average Pizza Per Order|Total Order|Total Revenue
-:-----: | :---------------| :---------: | :-----------:
-![](Average_order.JPG)|![](Average_pizza_perorder.JPG)|![](Total_order.JPG)|![](Total_revenue.JPG)
+Average Order|Average Pizza Per Order
+:-: | :-:|
+![](Average_order.JPG)|![](Average_pizza_perorder.JPG)
+
+
+Total Pizza Sold|Total Order|Total Revenue |Total Pizza Sold by Category
+:------: | :------: | :--------: | :--------:
+![](Total_pizza_sold.JPG)|![](Total_order.JPG)|![](Total_revenue.JPG)|![](total_pizza_sold_by_category.JPG)
+
+
+Percentage Sales by Category | Percentage Sales by Size
+:-: | :-:|
+![](percentage_sale_by_category.JPG)|![](percentage_sales_by_size.JPG)
 
