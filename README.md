@@ -34,3 +34,7 @@ Percentage Sales by Category | Percentage Sales by Size
 :-: | :-:|
 ![](percentage_sale_by_category.JPG)|![](percentage_sales_by_size.JPG)
 
+
+Daily Trend | Hourly Trend
+:-: | :-:|
+![](Daily_trend.JPG)|![](Hourly_trend.JPG)
